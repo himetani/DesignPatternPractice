@@ -1,0 +1,15 @@
+[submodule "AdapterPattern"]
+	path = AdapterPattern
+	url = ./AdapterPattern
+[submodule "BridgePattern"]
+	path = BridgePattern
+	url = ./BridgePattern
+[submodule "DecoratorPattern"]
+	path = DecoratorPattern
+	url = ./DecoratorPattern
+[submodule "IteratorPattern"]
+	path = IteratorPattern
+	url = ./IteratorPattern
+[submodule "TemplateMethodPattern"]
+	path = TemplateMethodPattern
+	url = ./TemplateMethodPattern
